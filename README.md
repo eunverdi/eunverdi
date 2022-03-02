@@ -38,7 +38,7 @@
 <br />
 
 [42]: https://profile.intra.42.fr/users/eunverdi
-[42website]: https://42.fr/en/what-is-42/42-program-explained/
+[42website]: https://www.42istanbul.com.tr/tr/
 [Ensar Batuhan]: https://www.linkedin.com/in/ensar-batuhan/
 <!--
 **eunverdi/eunverdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
