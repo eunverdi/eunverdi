@@ -2,7 +2,7 @@
 
 🔭 I’m currently studing in 42 school you can learn more about from [here][42website]
 
-🌱 I’m currently learning: Swift, C and other iOS stuff...
+🌱 I’m currently learning: Swift, C and iOS stuff...
 
 📫 How to reach me: [linkedin][Ensar Batuhan]
 
