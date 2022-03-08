@@ -29,10 +29,10 @@
 | 8   | [minishell]                                 | 🔒     |   | 18  | CPP Module 07                              | 🔒     |   |     |                                |         |
 | 9   | [Philosphers]                               | 🔒     |   | 19  | CPP Module 08                              | 🔒     |   |   |  |      |
 
-<!--
-### My Github Stats;
-[![eunverdi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunverdi&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
--->
+
+### 📈 My Github status:
+[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=eunverdi&show_icons=true&theme=radical)](https://github.com/eunverdi)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunverdi&layout=compact&theme=radical)](https://github.com/eunverdi)
 
 <br />
 <br />
@@ -40,17 +40,3 @@
 [42]: https://profile.intra.42.fr/users/eunverdi
 [42website]: https://www.42istanbul.com.tr/tr/
 [Ensar Batuhan]: https://www.linkedin.com/in/ensar-batuhan/
-<!--
-**eunverdi/eunverdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
