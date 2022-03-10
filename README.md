@@ -9,7 +9,9 @@
 
 **Languages and Tools:**  
 <code><img height="30" src="https://github.com/eunverdi/eunverdi/blob/main/swift.png"></code>
-<code><img height="30" src="https://github.com/eunverdi/eunverdi/blob/main/1200px-C_Programming_Language.svg.png"></code>
+<code><img height="30" src="https://github.com/eunverdi/eunverdi/blob/main/c.png"></code>
+<code><img height="30" src="https://github.com/eunverdi/eunverdi/blob/main/xcode.png"></code>
+<code><img height="30" src="https://github.com/eunverdi/eunverdi/blob/main/sourcetree.png"></code>
 
 ### 👨‍💻 My [42][42] status;
 [![eunverdi's 42 stats](https://badge42.herokuapp.com/api/stats/eunverdi?cursus=C%20reloaded)](https://profile.intra.42.fr/users/eunverdi)
