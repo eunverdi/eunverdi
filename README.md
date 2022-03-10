@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently studing in 42 school you can learn more about from [here][42website]
+🔭 I’m currently studying in 42 İstanbul. You can learn more about from [here][42website]
 
 🌱 I’m currently learning: Swift, C and iOS stuff...
 
