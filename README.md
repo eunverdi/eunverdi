@@ -13,8 +13,7 @@
 <code><img height="30" src="https://github.com/eunverdi/eunverdi/blob/main/xcode.png"></code>
 <code><img height="30" src="https://github.com/eunverdi/eunverdi/blob/main/sourcetree.png"></code>
 
-### 👨‍💻 My [42][42] status;
-[![eunverdi's 42 stats](https://badge42.herokuapp.com/api/stats/eunverdi?cursus=C%20reloaded)](https://profile.intra.42.fr/users/eunverdi)
+### 👨‍💻 My [42][42] status
 
 ## 42cursus Progress 💪🏻
 | No  | Project                                     | Status |   | No  | Project                                   | Status |   | No  | Project                        | Status |
