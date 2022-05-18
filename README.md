@@ -15,13 +15,6 @@
 
 ### 👨‍💻 Check my [42][42] status
 
-### 📈 My Github status:
-[![Apoorv's github && 42 stats](https://github-readme-stats.vercel.app/api?username=eunverdi&show_icons=true&theme=radical)](https://github.com/eunverdi)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunverdi&layout=compact&theme=radical)](https://github.com/eunverdi)
-
-<br />
-<br />
-
 [42]: https://profile.intra.42.fr/users/eunverdi
 [42website]: https://www.42istanbul.com.tr/tr/
 [Ensar Batuhan]: https://www.linkedin.com/in/ensar-batuhan/
