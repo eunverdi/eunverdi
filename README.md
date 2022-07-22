@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🔭 I’m currently studying in 42 İstanbul. You can learn more about from [here][42website]
-
 🌱 I’m currently learning: Everything about iOS Development...
 
 📫 How to reach me: [linkedin][Ensar Batuhan]
