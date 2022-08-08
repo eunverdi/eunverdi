@@ -11,8 +11,5 @@
 <code><img height="30" src="https://github.com/eunverdi/eunverdi/blob/main/xcode.png"></code>
 <code><img height="30" src="https://github.com/eunverdi/eunverdi/blob/main/sourcetree.png"></code>
 
-### 👨‍💻 Check my [42][42] status
 
-[42]: https://profile.intra.42.fr/users/eunverdi
-[42website]: https://www.42istanbul.com.tr/tr/
 [Ensar Batuhan]: https://www.linkedin.com/in/ensar-batuhan/
