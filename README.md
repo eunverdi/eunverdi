@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ensar Batuhan, an iOS and full-stack developer building polished mobile and web products.
+I'm Batuhan, an iOS and full-stack developer building polished mobile and web products.
 
 I work mostly with SwiftUI, React Native, Expo, Next.js, Node.js, TypeScript, PostgreSQL, and Prisma. I care about clean architecture, reliable user flows, strong developer tooling, and thoughtful product design.
 
@@ -16,6 +16,6 @@ I work mostly with SwiftUI, React Native, Expo, Next.js, Node.js, TypeScript, Po
 - Automation and AI tools
 - Developer experience
 
-📫 How to reach me: [LinkedIn][Ensar Batuhan]
+📫 How to reach me: [LinkedIn][Batuhan]
 
-[Ensar Batuhan]: https://www.linkedin.com/in/ensar-batuhan/
+[Batuhan]: https://www.linkedin.com/in/ensar-batuhan/
